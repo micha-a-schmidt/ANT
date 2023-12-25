@@ -1,0 +1,7 @@
+* Version 1.2 2015-11-08
+	- Bug in derivative of B0 and B1 fixed. Masses were interchanged.
+	(Thanks to Emiliano Molinaro for pointing it out.) 
+* Version 1.1 2014-03-28
+	- Additional derivatives for triangle diagrams added
+* Version 1.0 2013-10-01
+	- initial release
